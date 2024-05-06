@@ -1,5 +1,5 @@
 ## Banco de Dados
- Repositório destinado a prática sobre introdução ao estudo de Banco de Dados
+ Repositório destinado a prática básica sobre o estudo em Banco de Dados.
 
 ## O que é Banco de Dados?
 Pode ser definido como um local de armazenamento de dados, onde esses dados, são organizados de maneira estrutura, e que podem ser consultados a qualquer momento, para extração de informações.
@@ -55,12 +55,13 @@ CRUD (acrônimo para operações essenciais em um bd) :
 - BOOLEAN  -> Valor booleano (True/False)
 
 ### Criação
-
+```
 CREATE TABLE Pessoa (
 ID INT PRIMARY KEY,
 Nome VARCHAR(100),
 Idade INT
 );
+```
 
 ### Inserir dados
 
@@ -129,4 +130,6 @@ Cristina Yang sorriu satisfeita. "Ótimo. Lembre-se, a organização é a chave 
 - Banco de dados: POSTGRESQL 
 - SGBD: PGAdmim 4
 
+Obs 1: Clínica fictícia (História criada para fins de prática).
+Obs 2: Os desenvolvimentos do desafio, bem como as primeiras práticas estão dispostos em pdf como texto-link na pasta aqui do repositório. 
 
