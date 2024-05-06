@@ -1,7 +1,7 @@
 # Prática básica sobre Banco de Dados
 
-Banco Relacional: Postgres 
-Sistema de Gerenciamento: PGAdmim4
+- Banco Relacional: Postgres 
+- Sistema de Gerenciamento: PGAdmim4
 
 ## Comando Create
 
