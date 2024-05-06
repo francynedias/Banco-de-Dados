@@ -1,7 +1,7 @@
 # Prática básica sobre Banco de Dados
 
 - Banco Relacional: Postgres 
-- Sistema de Gerenciamento: PGAdmim4
+- Sistema de Gerenciamento: PGAdmin4
 
 ## Comando Create
 
@@ -23,3 +23,4 @@
 ## Comando Delete
 
 - [Delete, Drop table, Truncate](https://drive.google.com/file/d/1oQPkLHc8nkZ0_c-Hj-rvN0FJLw-0HUCD/view?usp=drive_link)
+
