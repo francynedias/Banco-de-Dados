@@ -48,8 +48,7 @@ CRUD (acrônimo para operações essenciais em um bd) :
 ### Os principais tipos de dados são:
 
 - INT  -> Número inteiro
-- SERIAL  -> Número inteiro com autoincremento
-- LOAT  -> Número fracionário
+- FLOAT  -> Número fracionário
 - VARCHAR-> Texto com tamanho variável (É possível fixar valor máximo)
 - DATATIME-> Data e hora
 - BOOLEAN  -> Valor booleano (True/False)
