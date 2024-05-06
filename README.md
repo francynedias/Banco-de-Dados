@@ -64,25 +64,25 @@ Idade INT
 ```
 
 ### Inserir dados
-
+```
 INSERT INTO Pessoa (ID, Nome, Idade) VALUES (1, 'João Silva', 30);
-
+```
 ### Buscar dados
-
+```
 SELECT Nome, Idade FROM Pessoa;
-
+```
 ### Filtrar dados com WHERE:
-
+```
 SELECT * FROM Pessoa WHERE Idade > 18;
-
+```
 ### Atualizar Dados (UPDATE):
-
+```
 UPDATE Pessoa SET Idade = 31 WHERE ID = 1;
-
+```
 ### Deletar dados:
-
+```
 DELETE FROM Pessoa WHERE ID = 1;
-
+```
 ### Cláusulas Complementares:
 
 - FROM: Especifica a tabela de onde os dados serão selecionados ou excluídos.
