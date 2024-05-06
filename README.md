@@ -113,13 +113,13 @@ Cristina Yang sorriu satisfeita. "Ótimo. Lembre-se, a organização é a chave 
 
 1. Uma tabela precisará ser construida, para armazenar os dados dos pacientes, dispondo das seguintes categorias:
 
-● Nome do Paciente;
-● Idade;
-● Sexo;
-● Email;
-● Telefone;
-● Endereço;
-● Data da última consulta;
+- Nome do Paciente;
+- Idade;
+- Sexo;
+- Email;
+- Telefone;
+- Endereço;
+- Data da última consulta;
 
 2. Os dados dos pacientes precisam ser inseridos na tabela.
 3. Faça uma busca pela lista de pacientes e busque por suas idades entre maior e menor que 30 anos.
