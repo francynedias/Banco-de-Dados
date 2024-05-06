@@ -130,5 +130,6 @@ Cristina Yang sorriu satisfeita. "Ótimo. Lembre-se, a organização é a chave 
 - SGBD: PGAdmim 4
 
 Obs 1: Clínica fictícia (História criada para fins de prática).
-Obs 2: Os desenvolvimentos do desafio, bem como as primeiras práticas estão dispostos em pdf como texto-link na pasta aqui do repositório. 
+
+Obs 2: Os desenvolvimentos do desafio, bem como as primeiras práticas estão dispostos na pasta [primeiras práticas](https://github.com/francynedias/Banco-de-Dados/tree/main/Primeiras%20Pr%C3%A1ticas) aqui deste repositório. 
 
