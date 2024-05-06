@@ -120,10 +120,10 @@ Cristina Yang sorriu satisfeita. "Ótimo. Lembre-se, a organização é a chave 
 ● Endereço;
 ● Data da última consulta;
 
-2. Pacientes precisam ser criados.
-3. Busque por pacientes em que a data da última consulta tenha sido a mais de 3 meses e tenham mais de 30 anos.
+2. Os dados dos pacientes precisam ser inseridos na tabela.
+3. Faça uma busca pela lista de pacientes e busque por suas idades entre maior e menor que 30 anos.
 4. Atualize a data de consulta de um paciente para a semana atual.
-5. Exclua o cadastro de pacientes que possuem menos de 30 anos de idade.
+5. Exclua o cadastro de um paciente.
 
 ### Ferramentas
 - Banco de dados: POSTGRESQL 
