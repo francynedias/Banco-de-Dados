@@ -125,4 +125,8 @@ Cristina Yang sorriu satisfeita. "Ótimo. Lembre-se, a organização é a chave 
 4. Atualize a data de consulta de um paciente para a semana atual.
 5. Exclua o cadastro de pacientes que possuem menos de 30 anos de idade.
 
+### Ferramentas
+- Banco de dados: POSTGRESQL 
+- SGBD: PGAdmim 4
+
 
